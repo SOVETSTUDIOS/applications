@@ -1,0 +1,2 @@
+C:\Users\Axel2\source\repos\dataread\bin\Release\net5.0-windows\publish\dataread.pdb
+C:\Users\Axel2\source\repos\dataread\bin\Release\net5.0-windows\publish\dataread.exe

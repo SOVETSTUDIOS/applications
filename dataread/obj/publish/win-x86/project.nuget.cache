@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHi0GmVO26kcHGCnc9lYhZBPw3rJ4vORz7bZGOTHZNEs9TdjIoIQombpfGbP388f+r4R81kLCx8freRNFT28MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Axel2\\source\\repos\\dataread\\dataread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Axel2\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.8\\microsoft.netcore.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\Axel2\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\Axel2\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.8\\microsoft.aspnetcore.app.runtime.win-x86.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
